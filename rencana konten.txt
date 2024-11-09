@@ -1,6 +1,8 @@
 Rencana konten
 
 -Mau buat konten agama
+ *tentang nabi
+ *tentang nabi muhammad
 -ada dalil nya
 -dalil al-quran
 -dalil hadits
