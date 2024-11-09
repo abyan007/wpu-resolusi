@@ -3,7 +3,8 @@ Rencana konten
 -Mau buat konten agama
  *tentang nabi
  *tentang nabi muhammad
- ^tata cara sholat
+ ^tata cara sholatnya
+ ^tata cara wudhunya
 -ada gambaran visualnya
 -ada dalil nya
  ^bahasa arab
